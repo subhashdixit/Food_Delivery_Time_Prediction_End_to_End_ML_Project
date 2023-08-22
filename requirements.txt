@@ -1,0 +1,3 @@
+pandas
+numpy
+-e . # It is used to install the requirments
