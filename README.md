@@ -11,3 +11,6 @@
 """
 ## Command to install requirements.txt file:
  1. pip install -r requirements.txt
+
+## Command to install ipykernel to run jupyter notebook
+1. conda install ipykernel
